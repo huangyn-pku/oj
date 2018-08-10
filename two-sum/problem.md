@@ -1,1 +1,1 @@
-Given a list of ints and a target, to find if there is a pair of nums whose sum is the target.
+Given a list of integers and a target, try to find if there is a pair of integers whose sum is the target.
